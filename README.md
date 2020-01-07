@@ -13,7 +13,7 @@ LIST OF COMPLETED 5 PROJECTS:
    
    Neural network is the bedrock to deep learning. In this section, you’ll learn how it works and test your ability by building a neural network from scratch.
 
-   Project: [Your first neural network](https://github.com/ozgurpolat/udacity-deep-learning/tree/master/DLND-your-first-network)
+   Project: [Your first neural network](https://github.com/ozgurpolat/udacity-deep-learning/tree/master/DLND-your-first-network-second-submission)
 
 2. PART 2:
 
