@@ -29,8 +29,9 @@ LIST OF COMPLETED 5 PROJECTS:
 
    Recurrent neural network is great for predicting on sequential data like music and text. With this neural network, you can generate new music, translate a language, or predict a seizure using an electroencephalogram. This section will teach you how to build and train a recurrent neural.
 
-   Project: Generate TV Scripts
-   Project: Translation Project
+   Project: [Generate TV Scripts](https://github.com/ozgurpolat/udacity-deep-learning/tree/master/dlnd_tv_script_generation_1st)
+   
+   Project: [Translation Project](https://github.com/ozgurpolat/udacity-deep-learning/tree/master/dlnd_language_translation_1st)
 
 4. PART 4:
 
@@ -38,4 +39,4 @@ LIST OF COMPLETED 5 PROJECTS:
 
    Generative adversarial networks are a type of unsupervised learning where two neural networks compete against each other. This is commonly used to generate image data. You’ll learn how to build your own generative adversarial network and pit two neural networks against each other.
 
-   Project: Generate Faces
+   Project: [Generate Faces](https://github.com/ozgurpolat/udacity-deep-learning/tree/master/dlnd_face_generation_1)
