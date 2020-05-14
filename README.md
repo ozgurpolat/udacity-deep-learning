@@ -11,7 +11,7 @@ LIST OF COMPLETED 5 PROJECTS:
 
    Neural Networks:
    
-   Neural network is the bedrock to deep learning. In this section, you’ll learn how it works and test your ability by building a neural network from scratch.
+   This was my first neural network project where I predicted bike sharing data.
 
    Project: [Your first neural network](https://github.com/ozgurpolat/udacity-deep-learning/tree/master/DLND-your-first-network-second-submission)
 
@@ -19,15 +19,13 @@ LIST OF COMPLETED 5 PROJECTS:
 
    Convolutional Neural Networks:
 
-   Convolutional neural network is the standard for solving vision problems. It’s used in self driving cars, face recognition, medical imaging, and a whole lot more! You’ll learn how this neural network works and apply to a image classification problem.
+   In this project, I classified images from the [CIFAR-10 dataset](https://www.cs.toronto.edu/~kriz/cifar.html). The dataset consists of airplanes, dogs, cats, and other objects. 
 
    Project: [Image Classification](https://github.com/ozgurpolat/udacity-deep-learning/tree/master/dlnd_image_classification.ipynb.2)
 
 3. PART 3:
 
    Recurrent Neural Networks:
-
-   Recurrent neural network is great for predicting on sequential data like music and text. With this neural network, you can generate new music, translate a language, or predict a seizure using an electroencephalogram. This section will teach you how to build and train a recurrent neural.
 
    Project: [Generate TV Scripts](https://github.com/ozgurpolat/udacity-deep-learning/tree/master/dlnd_tv_script_generation_1st)
    
@@ -36,7 +34,5 @@ LIST OF COMPLETED 5 PROJECTS:
 4. PART 4:
 
    Generative Adversarial Networks:
-
-   Generative adversarial networks are a type of unsupervised learning where two neural networks compete against each other. This is commonly used to generate image data. You’ll learn how to build your own generative adversarial network and pit two neural networks against each other.
 
    Project: [Generate Faces](https://github.com/ozgurpolat/udacity-deep-learning/tree/master/dlnd_face_generation_1)
