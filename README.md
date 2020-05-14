@@ -13,7 +13,7 @@ LIST OF COMPLETED 5 PROJECTS:
    
    This was my first neural network project where I predicted bike sharing data.
 
-   Project: [Your first neural network](https://github.com/ozgurpolat/udacity-deep-learning/tree/master/DLND-your-first-network-second-submission)
+   Project: [My first neural network](https://github.com/ozgurpolat/udacity-deep-learning/tree/master/DLND-your-first-network-second-submission)
 
 2. PART 2:
 
